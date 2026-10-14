@@ -1,0 +1,23 @@
+{
+  "name": "bot-plugins",
+  "description": "Plugins for Grok Bot, Cursor and Grok.",
+  "owner": {
+    "name": "Joaquin Diaz"
+  },
+  "plugins": [
+    {
+      "name": "fleet-self-learning",
+      "description": "Lets one Grok Bot or a whole fleet learn from corrections, edits, reactions and always/never instructions through a shared lessons folder and a weekly review, without turning one example into a rule.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./plugins/fleet-self-learning"
+      },
+      "homepage": "https://github.com/joacod/bot-plugins/tree/main/plugins/fleet-self-learning",
+      "keywords": [
+        "fleet-self-learning",
+        "fleet learning"
+      ]
+    }
+  ]
+}
