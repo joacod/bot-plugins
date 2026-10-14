@@ -1,0 +1,17 @@
+{
+  "name": "fleet-self-learning",
+  "version": "1.0.0",
+  "description": "Lets one Grok Bot or a whole fleet learn from corrections, edits, reactions and always/never instructions through a shared lessons folder and a weekly review, without turning one example into a rule.",
+  "author": {
+    "name": "Joaquin Diaz"
+  },
+  "homepage": "https://github.com/joacod/bot-plugins/tree/main/plugins/fleet-self-learning",
+  "repository": "https://github.com/joacod/bot-plugins",
+  "license": "MIT",
+  "keywords": [
+    "fleet-self-learning",
+    "grok-bot"
+  ],
+  "logo": "./assets/logo.png",
+  "skills": "./skills/"
+}
